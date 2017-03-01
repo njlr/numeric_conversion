@@ -1,0 +1,11 @@
+{
+  "name": "boost-numeric-conversion",
+  "dependencies": {
+    "boost-detail": "1.63.0",
+    "boost-core": "1.63.0",
+    "boost-throw-exception": "1.63.0",
+    "boost-config": "1.63.0",
+    "boost-preprocessor": "1.63.0",
+    "boost-integer": "1.63.0"
+  }
+}
